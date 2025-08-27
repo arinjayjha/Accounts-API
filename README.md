@@ -1,6 +1,6 @@
 # Account API (Express) with Jest + Supertest
 
-This project implements the CRUD Account API for Week-4 Assignment 2 and includes full test coverage using Jest + Supertest.
+This project implements the CRUD Account API and includes full test coverage using Jest + Supertest.
 
 ## Scripts
 - `npm install` — installs dependencies
