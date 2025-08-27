@@ -1,0 +1,66 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Dependency directories
+jspm_packages/
+
+# Build directories
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+temp/
+tmp/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# dotenv environment variables
+.env
+.env.test
+.env.production
+.env.development.local
+.env.local
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# IDE settings
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tgz
+.npm
+.eslintcache
+.stylelintcache
